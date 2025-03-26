@@ -95,8 +95,6 @@ footer {
 .wide-image {
     width: 100%;
     height: auto;
-    transform: scale(1.1) translateY(0);
-    transition: transform 0.3s linear;
 }
 
 .content {
