@@ -97,6 +97,16 @@ footer {
     height: auto;
 }
 
+@media (max-width: 768px) {
+    .image-section {
+        margin-bottom: 0;
+    }
+    
+    .content-text h2 {
+        margin-top: 10px;
+    }
+}
+
 .content {
     position: relative;
     margin: 20px auto;
